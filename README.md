@@ -55,6 +55,5 @@ Analyzing survival rates based on where passengers boarded the vessel.
 
 - Run the SQL queries from `titanic_project(P-2).sql` to replicate the analysis.
 
-- Refer to the Data Analysis Report on Maritime Data using SQL.pdf for detailed insights.
-
----
+- Refer to the pdf for detailed insights:
+[[**Data Analysis Report on  Maritime Data using SQL.pdf**]](https://github.com/Adarsh-e-reji/Maritime-Passenger-Data-Analysis-Using-SQL/blob/main/Data%20Analysis%20Report%20on%20Maritime%20Data%20using%20SQL.pdf)
