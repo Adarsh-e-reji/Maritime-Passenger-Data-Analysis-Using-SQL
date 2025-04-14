@@ -1,5 +1,4 @@
-# 📊 Maritime Passenger Data Analysis Using SQL
-
+# 📊 Maritime Passenger Data Analysis Using SQL Joins
 ## 📌 Overview  
 This project analyzes maritime passenger data using SQL queries on various datasets. It provides insights into survival rates, passenger demographics, ticketing information, and family sizes. The goal is to generate actionable insights for maritime operators to improve safety measures, enhance customer experience, and optimize operational strategies.
 
